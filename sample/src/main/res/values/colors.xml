@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E8690</color>
+    <color name="colorPrimaryDark">#0f636c</color>
+    <color name="colorAccent">#8c6693</color>
+
+    <color name="swipeselector_color_indicator_active">#398DE3</color>
+    <color name="swipeselector_color_indicator_inactive">#DDDDDD</color>
+</resources>
