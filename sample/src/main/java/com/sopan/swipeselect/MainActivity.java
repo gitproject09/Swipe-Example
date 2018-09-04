@@ -21,9 +21,6 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.sendButton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // You would probably send these to your server for validation,
-                // like: "http://example.com/api?size=" + selectedSize.getValue()
-                // etc, but we'll just display a toast.
 
                 String toastMessage = "";
 
